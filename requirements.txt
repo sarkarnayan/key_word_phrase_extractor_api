@@ -1,0 +1,6 @@
+flask
+numpy
+spacy
+pandas
+nltk
+networkx
